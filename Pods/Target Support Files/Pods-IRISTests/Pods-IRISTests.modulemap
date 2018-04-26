@@ -1,0 +1,6 @@
+framework module Pods_IRISTests {
+  umbrella header "Pods-IRISTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
