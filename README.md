@@ -1,0 +1,7 @@
+# IRIS_IOS
+The IRIS tool
+            
+The Intrapartum RIsk aSsessment tool for small-for-gestational age babies is a mobile application aimed at obstetricians dealing with deliveries of high-risk fetuses. The IRIS tool has three calculators which are built for estimating the risk of operative delivery due to intrapartum fetal distress, estimating the risk of prolonged neonatal unit admission and calculating cerebroplacental ratio MoMs. The coefficients used by the risk calculators are derived from a population of suspected small for gestational age fetuses who delivered in St. George’s University Hospital in London.  Associated literature can be found in the references section. Understanding the limitations of such studies and the information they may provide is essential before starting to use the IRIS tool. Although the term “prediction model” is commonly used for such studies, it is sort of a misnomer. Rather than actually predicting an outcome which implies this calculator is optimized for your clinical setting, the “predictions” of IRIS tool are optimized for the analyzed cohort (St. George’s University of London). It is important to note that your local practices may not be accounted for in the calculations of IRIS tool. We sincerely hope you will find the IRIS tool practical and beneficial in your daily practice and please give us your feedback via Contribute/Collaborate link in the main menu. 
+
+Yours sincerely,
+IRIS developer team 
